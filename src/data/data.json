@@ -1,0 +1,90 @@
+{
+  "Header": {
+    "title": "Kreasi Bersama Solusi",
+    "paragraph": "We are an IT company that has experience in its field and has experienced and certified engineers."
+  },
+  "About": {
+    "paragraph": "Our company was established by professionals with over a decade of experience in the IT industry, who possess a deep understanding of the unique IT needs of businesses. We are dedicated to delivering effective and flexible solutions made to measure to your requirements. Our track record includes successful collaborations on numerous projects with large enterprises.",
+    "Why": [
+      "Over 10 years experience",
+      "Certified engineer",
+      "Competitive price",
+      "High mobility"
+    ],
+    "Why2": [
+      "Inhouse Development"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1.png",
+      "smallImage": "img/portfolio/1.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2.png",
+      "smallImage": "img/portfolio/2.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3.png",
+      "smallImage": "img/portfolio/3.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4.png",
+      "smallImage": "img/portfolio/4.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5.png",
+      "smallImage": "img/portfolio/5.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/6.png",
+      "smallImage": "img/portfolio/6.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/7.png",
+      "smallImage": "img/portfolio/7.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/8.png",
+      "smallImage": "img/portfolio/8.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "img/iconservice/network-device-maintenance.png",
+      "name": "IT Device Maintenance",
+      "text": "We provide periodic maintenance services for your network, security devices, and telephone systems (PABX), delivered by our experienced and certified engineers."
+    },
+    {
+      "icon": "img/iconservice/it-device-procurement.png",
+      "name": "IT Device Procurement",
+      "text": "We provide procurement of IT equipment and licenses at competitive prices, by collaborating with authorized distributors to ensure quality and reliability."
+    },
+    {
+      "icon": "img/iconservice/cybersecurity-solution.png",
+      "name": "Cybersecurity Solution",
+      "text": "In today's digital landscape, we are committed to delivering solutions for the cyber attacks's detection and analysis, supported by our experienced and certified engineers."
+    },
+    {
+      "icon": "img/iconservice/software-development.png",
+      "name": "Software Development",
+      "text": "We provide tailored software solutions to fit your needs. Our team of experts is skilled in both front-end and back-end development."
+    }
+],
+  "Contact": {
+    "address": "Jalan Industri Raya Nomor 9-11, Rukan R.58 Gunung Sahari, jakarta pusat",
+    "phone": "+62 811-888-1944",
+    "email": "info@sibersolusi.id",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "https://www.youtube.com"
+  }
+}
